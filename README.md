@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi {visitor}, I'm Dave 👋
+
+I've been an inventor for as long as I can remember. 
+
+For the past 20 years most of that inventing has happened with computers.  [my resume](https://github.com/davejimison/davejimison/blob/main/Jimison_Resume.pdf)
+
+♡ list ♡
+♡ emacs
+♡ vanilla js
+♡ automating complex serverless algorithms
+
 
 <!--
 **davejimison/davejimison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
