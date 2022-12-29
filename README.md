@@ -2,12 +2,12 @@
 
 I've been an inventor for as long as I can remember. 
 
-For the past 20 years most of that inventing has happened with computers.  [my resume](https://github.com/davejimison/davejimison/blob/main/Jimison_Resume.pdf)
+For the past 20 years most of that inventing has happened with computers.  [Resume](https://github.com/davejimison/davejimison/blob/main/Jimison_Resume.pdf)
 
 ♡ list ♡
-♡ emacs
-♡ vanilla js
-♡ automating complex serverless algorithms
+- emacs
+- vanilla js
+- automating complex serverless algorithms
 
 
 <!--
